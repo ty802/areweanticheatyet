@@ -8139,7 +8139,7 @@
     "updates": [],
     "notes": [
       [
-        "Seems to run natively (but everyone uses proton-ge)"
+        "Seems to run fine under wine but most people report using patched wine is better"
         "https://www.protondb.com/app/1282270?device=pc"
       ]
     ],
